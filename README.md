@@ -1,0 +1,1 @@
+Indica si la parte u organización es obligada

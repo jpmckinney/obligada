@@ -1,0 +1,20 @@
+{
+  "definitions": {
+    "Organization": {
+      "properties": {
+        "details": {
+          "properties": {
+            "obligada": {
+              "title": "Obligada",
+              "description": "Indica si la parte u organización es obligada",
+              "type": [
+                "string",
+                "null"
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}
