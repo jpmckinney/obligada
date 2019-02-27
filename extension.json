@@ -1,11 +1,17 @@
 {
-	"name":{"en":"obligada"},
-	"description":{"es":"Indica si la parte u organización es obligada"},
-	"documentationUrl":{"es":"https://github.com/sdd1982/obligada/blob/master/README.md"},
-	"schemas": [
-		"release-schema.json"
-	],
-	"compatibility": [
-		"1.1"
-	]
+  "name": {
+    "en": "obligada"
+  },
+  "description": {
+    "es": "Indica si la parte u organización es obligada"
+  },
+  "documentationUrl": {
+    "es": "https://github.com/sdd1982/obligada/blob/master/README.md"
+  },
+  "schemas": [
+    "release-schema.json"
+  ],
+  "compatibility": [
+    "1.1"
+  ]
 }
